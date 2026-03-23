@@ -1,10 +1,8 @@
----
 
 # ControlPuc
 
 **ControlPuc** is a hardware-centric automation and remote command execution tool. It utilizes the **Raspberry Pi Pico W** (or Pico 2 W) to act as a standalone, wireless **Human Interface Device (HID)**. By emulating a keyboard/mouse, it allows deterministic keystroke injection and remote control over a target PC without requiring administrative privileges or specialized software on the target machine..
 
----
 
 ## 🧠 Project Overview
 
